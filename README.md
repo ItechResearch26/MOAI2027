@@ -70,8 +70,8 @@
     <tr>
       <td align="center"><b>1</b></td>
       <td><b>Python негіздері</b><br><sub>Айнымалылар, деректер типтері, шартты операторлар, циклдер, функциялар</sub></td>
-      <td><a href="#">📝 Дәріс жазбасы</a></td>
-      <td><a href="#">💻 Практика</a></td>
+      <td><a href="https://drive.google.com/drive/u/0/folders/1bXfp0Lb0jvbipGhmdKLOROcItUsx3In3">📝 Дәріс жазбасы</a></td>
+      <td><a href="https://drive.google.com/drive/u/0/folders/1q5i5D5siU1VasFysUuYdXjPWPMXEajKQ">💻 Практика</a></td>
       <td><a href="#">🧩 СӨЖ</a></td>
     </tr>
     <tr>

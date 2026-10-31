@@ -34,7 +34,7 @@
 <div class="books-section">
   <h2>📗 Әдебиеттер тізімі</h2>
     <p>
-    👉 <a href="#" style="font-weight: bold; font-size: 1.1em;">Әдебиеттерді ашу</a>
+    👉 <a href="https://drive.google.com/drive/u/0/folders/1z8MWBlb8iqHA_bYEkSfSpm5fhz0fRkPX" style="font-weight: bold; font-size: 1.1em;">Әдебиеттерді ашу</a>
   </p>
 </div>
 

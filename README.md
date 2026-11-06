@@ -72,14 +72,14 @@
       <td><b>Python негіздері</b><br><sub>Айнымалылар, деректер типтері, шартты операторлар, циклдер, функциялар</sub></td>
       <td><a href="https://drive.google.com/drive/folders/1zibib70fJmOjHqGd-o8PRVHGp_bAvbxN?hl=ru">📝 Дәріс жазбасы</a></td>
       <td><a href="https://drive.google.com/drive/folders/1zzLBG0RR2gH-zEvwxWjbZyAIVZwAz8gj?hl=ru">💻 Практика</a></td>
-      <td><a href="#">🧩 СӨЖ</a></td>
+      <td><a href="https://drive.google.com/file/d/1_1KZ85lONCQ-8Q1OvcfCmBziZUwfuZKF/view?usp=drive_link">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>2</b></td>
       <td><b>Мәліметтер құрылымдары және файлдар</b><br><sub>Тізімдер, сөздіктер, кортеждер, жиындар. Файлдармен жұмыс (оқу, жазу). Git/GitHub негіздері</sub></td>
-      <td><a href="#">📝 Дәріс жазбасы</a></td>
-      <td><a href="#">💻 Практика</a></td>
-      <td><a href="#">🧩 СӨЖ</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1F1YUGNqPyoESw6kyNQod5V4n-FTt6nb-?hl=ru">📝 Дәріс жазбасы</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1tNDstknhW-ukIU94yGf32y3N6O0k4j7E?hl=ru">💻 Практика</a></td>
+      <td><a href="">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>3</b></td>

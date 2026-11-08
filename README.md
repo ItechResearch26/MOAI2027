@@ -84,15 +84,15 @@
     <tr>
       <td align="center"><b>3</b></td>
       <td><b>NumPy</b><br><sub>Массивтер, матрицалық операциялар, векторлау. Негізгі математикалық функциялар</sub></td>
-      <td><a href="#">📝 Дәріс жазбасы</a></td>
-      <td><a href="#">💻 Практика</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1LGedAk7Mfb8dFHYAu2S0hwBJSyXc0c1Z?hl=ru">📝 Дәріс жазбасы</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1xZ2ltIQ2bfcQTDEOTzW13keZ_T0k0pIv?hl=ru">💻 Практика</a></td>
       <td><a href="#">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>4</b></td>
       <td><b>Pandas негіздері</b><br><sub>Series, DataFrame, мәліметтерді жүктеу, фильтрлеу, топтау. Kaggle</sub></td>
-      <td><a href="#">📝 Дәріс жазбасы</a></td>
-      <td><a href="#">💻 Практика</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1cUU5nxiNlRMW6QtEwPEY6AvNnmjGgbjR?hl=ru">📝 Дәріс жазбасы</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1Zwm0pqi6rEx9WIMGJ_0K45cxQi932w8O?hl=ru">💻 Практика</a></td>
       <td><a href="#">🧩 СӨЖ</a></td>
     </tr>
     <tr>

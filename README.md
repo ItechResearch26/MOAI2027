@@ -86,7 +86,7 @@
       <td><b>NumPy</b><br><sub>Массивтер, матрицалық операциялар, векторлау. Негізгі математикалық функциялар</sub></td>
       <td><a href="https://drive.google.com/drive/folders/1LGedAk7Mfb8dFHYAu2S0hwBJSyXc0c1Z?hl=ru">📝 Дәріс жазбасы</a></td>
       <td><a href="https://drive.google.com/drive/folders/1xZ2ltIQ2bfcQTDEOTzW13keZ_T0k0pIv?hl=ru">💻 Практика</a></td>
-      <td><a href="#">🧩 СӨЖ</a></td>
+      <td><a href="https://drive.google.com/file/d/1zpJNNGzxP4y_LpD9NPWoYAygIe1lBduO/view?usp=sharing">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>4</b></td>

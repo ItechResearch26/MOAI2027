@@ -93,7 +93,7 @@
       <td><b>Pandas негіздері</b><br><sub>Series, DataFrame, мәліметтерді жүктеу, фильтрлеу, топтау. Kaggle</sub></td>
       <td><a href="https://drive.google.com/drive/folders/1cUU5nxiNlRMW6QtEwPEY6AvNnmjGgbjR?hl=ru">📝 Дәріс жазбасы</a></td>
       <td><a href="https://drive.google.com/drive/folders/1Zwm0pqi6rEx9WIMGJ_0K45cxQi932w8O?hl=ru">💻 Практика</a></td>
-      <td><a href="#">🧩 СӨЖ</a></td>
+      <td><a href="https://drive.google.com/file/d/1C-xwBq1p3OFmL5_JmLDuXET8rNZ44qct/view?usp=drive_link">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>5</b></td>

@@ -100,7 +100,7 @@
       <td><b>Pandas тереңдету</b><br><sub>Біріктіру, қайта құру, жетіспейтін мәліметтермен жұмыс. Алғашқы EDA қадамдары</sub></td>
       <td><a href="https://drive.google.com/drive/folders/14L8Xuwjz5rirf-slyBEWa7e00ZrkNfhG?hl=ru">📝 Дәріс жазбасы</a></td>
       <td><a href="https://drive.google.com/drive/folders/1dpr-kieSBDpVWehDT08GXYYG3dmp1xTn?hl=ru">💻 Практика</a></td>
-      <td><a href="#">🧩 СӨЖ</a></td>
+      <td><a href="https://drive.google.com/file/d/1VBlkGU0QTvGQAH64KCiHCQwbyekBaNF1/view?usp=drive_link">🧩 СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>6</b></td>
